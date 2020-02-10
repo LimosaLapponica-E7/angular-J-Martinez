@@ -6,6 +6,8 @@ import { ProductAlertsComponent } from './product-alerts/product-alerts.componen
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
+import { HttpClientModule } from '@angular/common/http';
+
 
 @NgModule({
   imports: [
